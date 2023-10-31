@@ -1,73 +1,37 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-    <head>
-        <meta charset="UTF-8">
-        <title>Barbearia Alura</title>
-        <link rel="stylesheet" href="style.css">
-    </head>
 
-    <body>
-        <h1 style="text-align: center">Sobre a Barbearia Alura</h1>
+Home
+Produtos
+Contato
 
-        <p>Localizada no coração da cidade a <strong>Barbearia Alura</strong> traz para o mercado o que há de melhor para o seu cabelo e barba. 
-        Fundada em 2019, a Barbearia Alura já é destaque na cidade e conquista novos clientes a cada dia.</p>
+Home
+Produtos
+Contato
+header { background: #BBBBBB; } nav li { display: inline; margin: 0 0 0 15px; } nav a { text-transform: uppercase; color: #000000; font-weight: bold; font-size: 22px; text-decoration: none; }
 
-        <p style="font-size: 20px"><em>Nossa missão é: <strong>"Proporcionar auto-estima e qualidade de vida aos clientes"</strong>.</em></p>
+Home
+Produtos
+Contato
+header { background: #BBBBBB; padding: 20px 0; } .caixa { position: relative; width: 940px; margin: 0 auto; } nav { position: absolute; top: 110px; right: 0; } header { background: #BBBBBB; padding: 20px 0; } .caixa { position: relative; width: 940px; margin: 0 auto; } nav { position: absolute; top: 110px; right: 0; } nav li { display: inline; margin: 0 0 0 15px; } nav a { text-transform: uppercase; color: #000000; font-weight: bold; font-size: 22px; text-decoration: none; }
+Cabelo
 
-        <p>Oferecemos profissionais experientes e antenados às mudanças no mundo da moda. 
-        O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.</p>
-    
-    
-    <h2>benefícios</h2>
+Na tesoura ou máquina, como o cliente preferir
 
-<ul>
+R$ 25,00
 
+Barba
 
-*atendimento aos clientes<!DOCTYPE html>
-<html lang="pt-br">
-    <head>
-        <meta charset="UTF-8">
-        <title>Barbearia Alura</title>
-        <link rel="stylesheet" href="style.css">
-    </head>
+Corte e desenho profissional de barba
 
-    <body>
-        <h1 style="text-align: center">Sobre a Barbearia Alura</h1>
+R$ 18,00
 
-        <p>Localizada no coração da cidade a <strong>Barbearia Alura</strong> traz para o mercado o que há de melhor para o seu cabelo e barba. 
-        Fundada em 2019, a Barbearia Alura já é destaque na cidade e conquista novos clientes a cada dia.</p>
+Cabelo + Barba
 
-        <p style="font-size: 20px"><em>Nossa missão é: <strong>"Proporcionar auto-estima e qualidade de vida aos clientes"</strong>.</em></p>
+Pacote completo de cabelo e barba
 
-        <p>Oferecemos profissionais experientes e antenados às mudanças no mundo da moda. 
-        O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.</p>
-    
-    
-    <h2>benefícios</h2>
+R$ 35,00
 
-<ul>
+.produtos { width: 940px; margin: 0 auto; padding: 50px 0; } .produtos li { display: inline-block; text-align: center; width: 30%; vertical-align: top; margin: 0 1.5%; padding: 30px 20px; box-sizing: border-box; } .produtos h2 { font-size: 30px; font-weight: bold; } .produto-descricao { font-size: 18px; } .produto-preco { font-size: 22px; font-weight: bold; margin-top: 10px; } border: 2px solid #000000; border-radius: 10px; .produtos li { display: inline-block; text-align: center; width: 30%; vertical-align: top; margin: 0 1.5%; padding: 30px 20px; box-sizing: border-box; border: 2px solid #000000; border-radius: 10px; } nav a:hover { color: #C78C19; text-decoration: underline; } .produtos li:hover { border-color: #C78C19; } .produtos li:active { border-color: #088C19; } .produtos li:hover h2 { font-size: 34px; }
 
+© Copyright Barbearia Alura - 2019
 
-*atendimento aos clientes
-*Espaço diferenciado
-*localização
-*profissionais qualificados
-
-</ul>
-    </body>
-</html>
-*Espaço diferenciado
-*localização
-*profissionais qualificados
-
-</ul>
-    </body>
-</html>
-
-
-
-
-
-
-
-
+footer { text-align: center; background: url("bg.jpg"); padding: 40px 0; } .copyright { color: #FFFFFF; font-size: 13px; margin: 20px 0 0; }
